@@ -149,3 +149,6 @@ http://vtpi.club:21973/live/a22217/fmhdn/20234.m3u8
 http://vtpi.club:21973/live/a22217/fmhdn/20235.m3u8
 #EXTINF:-1 tvg-chno="75" tvg-id="Nicktoons.uk" tvg-name="Nicktoons.uk" tvg-logo="http://vtpi.club/chansicons/nickelodeonhd.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nick Toons
 http://vtpi.club:21973/live/a22217/fmhdn/20236.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://vtpi.club/chansicons/f3932e75f691561adbe3b609369e487b.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",BBC One +
+http://vtpi.club:21973/live/a22217/fmhdn/20013.m3u8
