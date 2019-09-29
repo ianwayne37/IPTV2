@@ -105,7 +105,7 @@ http://vtpi.club:21973/live/a22217/fmhdn/20182.m3u8
 http://vtpi.club:21973/live/a22217/fmhdn/20183.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-id="SkySportsMix.uk" tvg-name="SkySportsMix.uk" tvg-logo="http://vtpi.club/chansicons/skyspmix.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Mix +
 http://vtpi.club:21973/live/a22217/fmhdn/20184.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="SkySportsMix.uk" tvg-name="SkySportsMix.uk" tvg-logo="http://vtpi.club/chansicons/skyspmixhd.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Mix @
+#EXTINF:-1 tvg-chno="54" tvg-id="SkySportsMix.uk" tvg-name="SkySportsMix.uk" tvg-logo="http://vtpi.club/chansicons/skyspmixhd.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Mix +
 http://vtpi.club:21973/live/a22217/fmhdn/20185.m3u8
 #EXTINF:-1 tvg-chno="55" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Premier League +
 http://vtpi.club:21973/live/a22217/fmhdn/20188.m3u8
@@ -145,8 +145,8 @@ http://vtpi.club:21973/live/a22217/fmhdn/20231.m3u8
 http://vtpi.club:21973/live/a22217/fmhdn/20233.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-id="NickJunior.uk" tvg-name="NickJunior.uk" tvg-logo="http://vtpi.club/chansicons/3c79d405c7a8fd116f6622fb773b4ad2.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nick Junior +
 http://vtpi.club:21973/live/a22217/fmhdn/20234.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon.uk" tvg-logo="http://vtpi.club/chansicons/79bb6a03583717142c111b9ad07ee2ae.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nickelo Deon
+#EXTINF:-1 tvg-chno="74" tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon.uk" tvg-logo="http://vtpi.club/chansicons/79bb6a03583717142c111b9ad07ee2ae.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nickelo Deon +
 http://vtpi.club:21973/live/a22217/fmhdn/20235.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-id="Nicktoons.uk" tvg-name="Nicktoons.uk" tvg-logo="http://vtpi.club/chansicons/nickelodeonhd.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nick Toons
+#EXTINF:-1 tvg-chno="75" tvg-id="Nicktoons.uk" tvg-name="Nicktoons.uk" tvg-logo="http://vtpi.club/chansicons/nickelodeonhd.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nick Toons +
 http://vtpi.club:21973/live/a22217/fmhdn/20236.m3u8
 
