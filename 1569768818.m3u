@@ -1,227 +1,227 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",BBC One
+#EXTINF:-1 tvg-chno="1" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",BBC One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/11188.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",BBC One 
+#EXTINF:-1 tvg-chno="2" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",BBC One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/757.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="CBSReality1.uk" tvg-name="CBSReality1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",CBS Reality + One
+#EXTINF:-1 tvg-chno="3" tvg-id="CBSReality1.uk" tvg-name="CBSReality1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",CBS Reality + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/16839.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Five
+#EXTINF:-1 tvg-chno="4" tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Five +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/2591.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Five
+#EXTINF:-1 tvg-chno="5" tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Five +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/257.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="Channel5plus1.uk" tvg-name="Channel5plus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Five + One
+#EXTINF:-1 tvg-chno="6" tvg-id="Channel5plus1.uk" tvg-name="Channel5plus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Five + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4898.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Four 
+#EXTINF:-1 tvg-chno="7" tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Four +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/2590.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Four
+#EXTINF:-1 tvg-chno="8" tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Four +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/829.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="Channel4plus1.uk" tvg-name="Channel4plus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Four + One
+#EXTINF:-1 tvg-chno="9" tvg-id="Channel4plus1.uk" tvg-name="Channel4plus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Four + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4915.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="Dave.uk" tvg-name="Dave.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Dave
+#EXTINF:-1 tvg-chno="10" tvg-id="Dave.uk" tvg-name="Dave.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Dave +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/244.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="Dave.uk" tvg-name="Dave.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Dave 
+#EXTINF:-1 tvg-chno="11" tvg-id="Dave.uk" tvg-name="Dave.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Dave +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/15156.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="DaveJaVu.uk" tvg-name="DaveJaVu.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Dave + One
+#EXTINF:-1 tvg-chno="12" tvg-id="DaveJaVu.uk" tvg-name="DaveJaVu.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Dave + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4911.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="E4.uk" tvg-name="E4.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",E Four
+#EXTINF:-1 tvg-chno="13" tvg-id="E4.uk" tvg-name="E4.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",E Four+
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/242.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="E4.uk" tvg-name="E4.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",E Four
+#EXTINF:-1 tvg-chno="14" tvg-id="E4.uk" tvg-name="E4.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",E Four +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/11211.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="E4plus1.uk" tvg-name="E4plus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",E Four + One
+#EXTINF:-1 tvg-chno="15" tvg-id="E4plus1.uk" tvg-name="E4plus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",E Four + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4893.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="5star.uk" tvg-name="5star.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Five Star
+#EXTINF:-1 tvg-chno="16" tvg-id="5star.uk" tvg-name="5star.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Five Star +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/200.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="4seven.uk" tvg-name="4seven.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Four Seven
+#EXTINF:-1 tvg-chno="17" tvg-id="4seven.uk" tvg-name="4seven.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Four Seven +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/799.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="4seven.uk" tvg-name="4seven.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Four Seven
+#EXTINF:-1 tvg-chno="18" tvg-id="4seven.uk" tvg-name="4seven.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Four Seven +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/20177.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-id="ITVBe.uk" tvg-name="ITVBe.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Be
+#EXTINF:-1 tvg-chno="19" tvg-id="ITVBe.uk" tvg-name="ITVBe.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Be +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/248.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-id="ITVBe.uk" tvg-name="ITVBe.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Be 
+#EXTINF:-1 tvg-chno="20" tvg-id="ITVBe.uk" tvg-name="ITVBe.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Be +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/20212.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="ITVBePlus1.uk" tvg-name="ITVBePlus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Be + One
+#EXTINF:-1 tvg-chno="21" tvg-id="ITVBePlus1.uk" tvg-name="ITVBePlus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Be + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/6044.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV One
+#EXTINF:-1 tvg-chno="22" tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/5939.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV One
+#EXTINF:-1 tvg-chno="23" tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/259.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="ITVPlus1.uk" tvg-name="ITVPlus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV One + One
+#EXTINF:-1 tvg-chno="24" tvg-id="ITVPlus1.uk" tvg-name="ITVPlus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV One + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4892.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Two
+#EXTINF:-1 tvg-chno="25" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Two +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/252.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Two
+#EXTINF:-1 tvg-chno="26" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Two +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/8439.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-id="ITV2plus1.uk" tvg-name="ITV2plus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Two + One
+#EXTINF:-1 tvg-chno="27" tvg-id="ITV2plus1.uk" tvg-name="ITV2plus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Two + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4899.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="Lifetime.uk" tvg-name="Lifetime.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Life Time
+#EXTINF:-1 tvg-chno="28" tvg-id="Lifetime.uk" tvg-name="Lifetime.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Life Time +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/7360.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-id="More4.uk" tvg-name="More4.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",More Four
+#EXTINF:-1 tvg-chno="29" tvg-id="More4.uk" tvg-name="More4.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",More Four +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/208.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="More4Plus1.uk" tvg-name="More4Plus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",More Four + One
+#EXTINF:-1 tvg-chno="30" tvg-id="More4Plus1.uk" tvg-name="More4Plus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",More Four + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4894.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="PickTV.uk" tvg-name="PickTV.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Pick 
+#EXTINF:-1 tvg-chno="31" tvg-id="PickTV.uk" tvg-name="PickTV.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Pick +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/751.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="Quest.uk" tvg-name="Quest.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Quest
+#EXTINF:-1 tvg-chno="32" tvg-id="Quest.uk" tvg-name="Quest.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Quest +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/213.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="Quest.uk" tvg-name="Quest.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Quest 
+#EXTINF:-1 tvg-chno="33" tvg-id="Quest.uk" tvg-name="Quest.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Quest + 
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/15682.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="Quest.uk" tvg-name="Quest.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Quest Red
+#EXTINF:-1 tvg-chno="34" tvg-id="Quest.uk" tvg-name="Quest.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Quest Red +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/10542.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="Really.uk" tvg-name="Really.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Really
+#EXTINF:-1 tvg-chno="35" tvg-id="Really.uk" tvg-name="Really.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Really +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/238.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Sky One
+#EXTINF:-1 tvg-chno="36" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Sky One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4130.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Sky One 
+#EXTINF:-1 tvg-chno="37" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Sky One + 
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/2622.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="Sky2.uk" tvg-name="Sky2.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Sky Two
+#EXTINF:-1 tvg-chno="38" tvg-id="Sky2.uk" tvg-name="Sky2.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Sky Two +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4131.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="SkyLiving.uk" tvg-name="SkyLiving.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Sky Wit Ness
+#EXTINF:-1 tvg-chno="39" tvg-id="SkyLiving.uk" tvg-name="SkyLiving.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Sky Wit Ness +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/10536.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-id="SkyLiving.uk" tvg-name="SkyLiving.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Sky Wit Ness 
+#EXTINF:-1 tvg-chno="40" tvg-id="SkyLiving.uk" tvg-name="SkyLiving.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Sky Wit Ness +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/10537.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="Spike.uk" tvg-name="Spike.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Spike
+#EXTINF:-1 tvg-chno="41" tvg-id="Spike.uk" tvg-name="Spike.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",Spike +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/807.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-id="TLC.uk" tvg-name="TLC.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",TLC
+#EXTINF:-1 tvg-chno="42" tvg-id="TLC.uk" tvg-name="TLC.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",TLC +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4176.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-id="TLC.uk" tvg-name="TLC.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",TLC 
+#EXTINF:-1 tvg-chno="43" tvg-id="TLC.uk" tvg-name="TLC.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",TLC +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/15681.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-id="TLCplus1.uk" tvg-name="TLCplus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",TLC + One
+#EXTINF:-1 tvg-chno="44" tvg-id="TLCplus1.uk" tvg-name="TLCplus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",TLC + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/20125.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-id="W.uk" tvg-name="W.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",W
+#EXTINF:-1 tvg-chno="45" tvg-id="W.uk" tvg-name="W.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",W +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/241.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id="WPlus1.uk" tvg-name="WPlus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",W + One
+#EXTINF:-1 tvg-chno="46" tvg-id="WPlus1.uk" tvg-name="WPlus1.uk" tvg-logo="" group-title="IPTV - Entertain Ment" parent-code="1234" tvg-shift="+2",W + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/20126.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="AnimalPlanet.uk" tvg-name="AnimalPlanet.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Animal Planet
+#EXTINF:-1 tvg-chno="47" tvg-id="AnimalPlanet.uk" tvg-name="AnimalPlanet.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Animal Planet +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/227.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="AnimalPlanetplus1.uk" tvg-name="AnimalPlanetplus1.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Animal Planet + One
+#EXTINF:-1 tvg-chno="48" tvg-id="AnimalPlanetplus1.uk" tvg-name="AnimalPlanetplus1.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Animal Planet + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/20117.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="DiscoveryChannel.uk" tvg-name="DiscoveryChannel.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Discovery Channel
+#EXTINF:-1 tvg-chno="49" tvg-id="DiscoveryChannel.uk" tvg-name="DiscoveryChannel.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Discovery Channel +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4036.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-id="DiscoveryChannel.uk" tvg-name="DiscoveryChannel.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Discovery Channel 
+#EXTINF:-1 tvg-chno="50" tvg-id="DiscoveryChannel.uk" tvg-name="DiscoveryChannel.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Discovery Channel +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/199.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="DiscoveryShed.uk" tvg-name="DiscoveryShed.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Discovery Shed
+#EXTINF:-1 tvg-chno="51" tvg-id="DiscoveryShed.uk" tvg-name="DiscoveryShed.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Discovery Shed +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/193.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="DiscoveryTurbo.uk" tvg-name="DiscoveryTurbo.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Discovery Tur Bo
+#EXTINF:-1 tvg-chno="52" tvg-id="DiscoveryTurbo.uk" tvg-name="DiscoveryTurbo.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Discovery Tur Bo +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/192.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="NatGeoWild.uk" tvg-name="NatGeoWild.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Nat Geo Wild
+#EXTINF:-1 tvg-chno="53" tvg-id="NatGeoWild.uk" tvg-name="NatGeoWild.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Nat Geo Wild +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/2621.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="NatGeoWild.uk" tvg-name="NatGeoWild.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Nat Geo Wild 
+#EXTINF:-1 tvg-chno="54" tvg-id="NatGeoWild.uk" tvg-name="NatGeoWild.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",Nat Geo Wild +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/15680.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="NationalGeographic.uk" tvg-name="NationalGeographic.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",National Geographic
+#EXTINF:-1 tvg-chno="55" tvg-id="NationalGeographic.uk" tvg-name="NationalGeographic.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",National Geographic +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/189.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-id="NationalGeographic.uk" tvg-name="NationalGeographic.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",National Geographic 
+#EXTINF:-1 tvg-chno="56" tvg-id="NationalGeographic.uk" tvg-name="NationalGeographic.uk" tvg-logo="" group-title="IPTV - Documentarie" parent-code="1234" tvg-shift="+2",National Geographic +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/7606.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-id="Boomerang.uk" tvg-name="Boomerang.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Boomerang
+#EXTINF:-1 tvg-chno="57" tvg-id="Boomerang.uk" tvg-name="Boomerang.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Boomerang +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/3321.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="CartoonNetwork.uk" tvg-name="CartoonNetwork.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Cartoon Net Work
+#EXTINF:-1 tvg-chno="58" tvg-id="CartoonNetwork.uk" tvg-name="CartoonNetwork.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Cartoon Net Work +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/178.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-id="CartoonNetwork.uk" tvg-name="CartoonNetwork.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Cartoon Net Work 
+#EXTINF:-1 tvg-chno="59" tvg-id="CartoonNetwork.uk" tvg-name="CartoonNetwork.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Cartoon Net Work +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/15162.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-id="CartoonNetworkplus1.uk" tvg-name="CartoonNetworkplus1.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Cartoon Net Work + One
+#EXTINF:-1 tvg-chno="60" tvg-id="CartoonNetworkplus1.uk" tvg-name="CartoonNetworkplus1.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Cartoon Net Work + One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4896.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="Cartoonito.uk" tvg-name="Cartoonito.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Cartoonito
+#EXTINF:-1 tvg-chno="61" tvg-id="Cartoonito.uk" tvg-name="Cartoonito.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Cartoonito +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/177.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="CBBC.uk" tvg-name="CBBC.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",CBBC
+#EXTINF:-1 tvg-chno="62" tvg-id="CBBC.uk" tvg-name="CBBC.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",CBBC +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/179.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="DisneyXD.uk" tvg-name="DisneyXD.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Disney 
+#EXTINF:-1 tvg-chno="63" tvg-id="DisneyXD.uk" tvg-name="DisneyXD.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Disney  +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/173.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-id="DisneyJunior.uk" tvg-name="DisneyJunior.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Disney Junior
+#EXTINF:-1 tvg-chno="64" tvg-id="DisneyJunior.uk" tvg-name="DisneyJunior.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Disney Junior +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/174.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="NickJunior.uk" tvg-name="NickJunior.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Nick Junior
+#EXTINF:-1 tvg-chno="65" tvg-id="NickJunior.uk" tvg-name="NickJunior.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Nick Junior +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/172.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="NickJrToo.uk" tvg-name="NickJrToo.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Nick Junior Too
+#EXTINF:-1 tvg-chno="66" tvg-id="NickJrToo.uk" tvg-name="NickJrToo.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Nick Junior Too +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/170.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-id="Nicktoons.uk" tvg-name="Nicktoons.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Nick Toons
+#EXTINF:-1 tvg-chno="67" tvg-id="Nicktoons.uk" tvg-name="Nicktoons.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Nick Toons +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/168.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Nickelo Deon
+#EXTINF:-1 tvg-chno="68" tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Nickelo Deon _
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/169.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Nickelo Deon 
+#EXTINF:-1 tvg-chno="69" tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Nickelo Deon +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/15210.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="TinyPop.uk" tvg-name="TinyPop.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Tiny Pop
+#EXTINF:-1 tvg-chno="70" tvg-id="TinyPop.uk" tvg-name="TinyPop.uk" tvg-logo="" group-title="IPTV - Kid" parent-code="1234" tvg-shift="+2",Tiny Pop +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/3322.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="MTV.uk" tvg-name="MTV.uk" tvg-logo="" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",MTV
+#EXTINF:-1 tvg-chno="71" tvg-id="MTV.uk" tvg-name="MTV.uk" tvg-logo="" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",MTV +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/188.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="VH1UK.uk" tvg-name="VH1UK.uk" tvg-logo="" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",VH One
+#EXTINF:-1 tvg-chno="72" tvg-id="VH1UK.uk" tvg-name="VH1UK.uk" tvg-logo="" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",VH One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/181.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-id="BoxHits.uk" tvg-name="BoxHits.uk" tvg-logo="" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",Box Hits
+#EXTINF:-1 tvg-chno="73" tvg-id="BoxHits.uk" tvg-name="BoxHits.uk" tvg-logo="" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",Box Hits +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4912.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="KissTV.uk" tvg-name="KissTV.uk" tvg-logo="" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",Kiss
+#EXTINF:-1 tvg-chno="74" tvg-id="KissTV.uk" tvg-name="KissTV.uk" tvg-logo="" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",Kiss +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/6607.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-id="MTVClassic.uk" tvg-name="MTVClassic.uk" tvg-logo="" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",MTV Classic
+#EXTINF:-1 tvg-chno="75" tvg-id="MTVClassic.uk" tvg-name="MTVClassic.uk" tvg-logo="" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",MTV Classic +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/185.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-id="MTVHits.uk" tvg-name="MTVHits.uk" tvg-logo="" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",MTV Hits
+#EXTINF:-1 tvg-chno="76" tvg-id="MTVHits.uk" tvg-name="MTVHits.uk" tvg-logo="" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",MTV Hits +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/183.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-id="BTSport1.uk" tvg-name="BTSport1.uk" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport One
+#EXTINF:-1 tvg-chno="77" tvg-id="BTSport1.uk" tvg-name="BTSport1.uk" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/3879.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-id="BTSport1.uk" tvg-name="BTSport1.uk" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport One
+#EXTINF:-1 tvg-chno="78" tvg-id="BTSport1.uk" tvg-name="BTSport1.uk" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/13144.m3u8
-#EXTINF:-1 tvg-chno="79" tvg-id="BTSport1.uk" tvg-name="BTSport1.uk" tvg-logo="" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport One
+#EXTINF:-1 tvg-chno="79" tvg-id="BTSport1.uk" tvg-name="BTSport1.uk" tvg-logo="" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport One +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/134.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-id="BTSport2.uk" tvg-name="BTSport2.uk" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport Two
+#EXTINF:-1 tvg-chno="80" tvg-id="BTSport2.uk" tvg-name="BTSport2.uk" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport Two +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/13370.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="BTSport2.uk" tvg-name="BTSport2.uk" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport Two
+#EXTINF:-1 tvg-chno="81" tvg-id="BTSport2.uk" tvg-name="BTSport2.uk" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport Two +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/3864.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="BTSport2.uk" tvg-name="BTSport2.uk" tvg-logo="" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport Two
+#EXTINF:-1 tvg-chno="82" tvg-id="BTSport2.uk" tvg-name="BTSport2.uk" tvg-logo="" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport Two +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/22528.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-id="BTSport3.uk" tvg-name="BTSport3.uk" tvg-logo="" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport Three
+#EXTINF:-1 tvg-chno="83" tvg-id="BTSport3.uk" tvg-name="BTSport3.uk" tvg-logo="" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport Three +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/22565.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-id="BTSport3.uk" tvg-name="BTSport3.uk" tvg-logo="" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport Three
+#EXTINF:-1 tvg-chno="84" tvg-id="BTSport3.uk" tvg-name="BTSport3.uk" tvg-logo="" group-title="IPTV - BT Sport" parent-code="1234" tvg-shift="+2",BT Sport Three +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/22564.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SkyMoviesActionandAdventure.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Action
+#EXTINF:-1 tvg-chno="85" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SkyMoviesActionandAdventure.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Action +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/165.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SkyMoviesActionandAdventure.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Action 
+#EXTINF:-1 tvg-chno="86" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SkyMoviesActionandAdventure.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Action +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/15146.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SkyMoviesActionandAdventure.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Action 
+#EXTINF:-1 tvg-chno="87" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SkyMoviesActionandAdventure.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Action +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4148.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="SkyMoviesDisney.uk" tvg-name="SkyMoviesDisney.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Disney
+#EXTINF:-1 tvg-chno="88" tvg-id="SkyMoviesDisney.uk" tvg-name="SkyMoviesDisney.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Disney +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/158.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="SkyMoviesDisney.uk" tvg-name="SkyMoviesDisney.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Disney 
+#EXTINF:-1 tvg-chno="89" tvg-id="SkyMoviesDisney.uk" tvg-name="SkyMoviesDisney.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Disney +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/15149.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-id="SkyMoviesDisney.uk" tvg-name="SkyMoviesDisney.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Disney 
+#EXTINF:-1 tvg-chno="90" tvg-id="SkyMoviesDisney.uk" tvg-name="SkyMoviesDisney.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Disney +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/4142.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Hits
+#EXTINF:-1 tvg-chno="91" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Hits +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/7609.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Hits 
+#EXTINF:-1 tvg-chno="92" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Hits +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/15154.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Hits 
+#EXTINF:-1 tvg-chno="93" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Hits +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/161.m3u8
 #EXTINF:-1 tvg-chno="94" tvg-id="SkyMoviesSelect.uk" tvg-name="SkyMoviesSelect.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Select
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/13373.m3u8
-#EXTINF:-1 tvg-chno="95" tvg-id="SkyMoviesSelect.uk" tvg-name="SkyMoviesSelect.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Select 
+#EXTINF:-1 tvg-chno="95" tvg-id="SkyMoviesSelect.uk" tvg-name="SkyMoviesSelect.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Select +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/15150.m3u8
-#EXTINF:-1 tvg-chno="96" tvg-id="SkyMoviesSelect.uk" tvg-name="SkyMoviesSelect.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Select 
+#EXTINF:-1 tvg-chno="96" tvg-id="SkyMoviesSelect.uk" tvg-name="SkyMoviesSelect.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Select +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/159.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="SkySportsAction.uk" tvg-name="SkySportsAction.uk" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsaction_130x130.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Action
+#EXTINF:-1 tvg-chno="97" tvg-id="SkySportsAction.uk" tvg-name="SkySportsAction.uk" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsaction_130x130.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport  +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/146.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="SkySportsAction.uk" tvg-name="SkySportsAction.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Action 
+#EXTINF:-1 tvg-chno="98" tvg-id="SkySportsAction.uk" tvg-name="SkySportsAction.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Action +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/17955.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-id="SkySportsAction.uk" tvg-name="SkySportsAction.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Action 
+#EXTINF:-1 tvg-chno="99" tvg-id="SkySportsAction.uk" tvg-name="SkySportsAction.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Action +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/1191.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Arena
+#EXTINF:-1 tvg-chno="100" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Arena +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/1674.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Arena 
+#EXTINF:-1 tvg-chno="101" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Arena +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/17956.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Arena 
+#EXTINF:-1 tvg-chno="102" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Arena + 
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/1665.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="SkySportsFootball.uk" tvg-name="SkySportsFootball.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNXzu9fPBMHKbdty9cuCCZVLH0ZREkp7A-4rLvw9UfyBQF4wB" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Foot Ball
+#EXTINF:-1 tvg-chno="103" tvg-id="SkySportsFootball.uk" tvg-name="SkySportsFootball.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNXzu9fPBMHKbdty9cuCCZVLH0ZREkp7A-4rLvw9UfyBQF4wB" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Foot Ball +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/1596.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="SkySportsFootball.uk" tvg-name="SkySportsFootball.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Foot Ball
+#EXTINF:-1 tvg-chno="104" tvg-id="SkySportsFootball.uk" tvg-name="SkySportsFootball.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Foot Ball +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/17958.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="SkySportsFootball.uk" tvg-name="SkySportsFootball.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNXzu9fPBMHKbdty9cuCCZVLH0ZREkp7A-4rLvw9UfyBQF4wB" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Foot Ball 
+#EXTINF:-1 tvg-chno="105" tvg-id="SkySportsFootball.uk" tvg-name="SkySportsFootball.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNXzu9fPBMHKbdty9cuCCZVLH0ZREkp7A-4rLvw9UfyBQF4wB" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Foot Ball +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/3429.m3u8
-#EXTINF:-1 tvg-chno="106" tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Main Event
+#EXTINF:-1 tvg-chno="106" tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Main Event +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/150.m3u8
-#EXTINF:-1 tvg-chno="107" tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Main Event 
+#EXTINF:-1 tvg-chno="107" tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Main Event +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/17953.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Main Event 
+#EXTINF:-1 tvg-chno="108" tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Main Event +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/1189.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="SkySportsMix.uk" tvg-name="SkySportsMix.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Mix
+#EXTINF:-1 tvg-chno="109" tvg-id="SkySportsMix.uk" tvg-name="SkySportsMix.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Mix +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/138.m3u8
-#EXTINF:-1 tvg-chno="110" tvg-id="SkySportsMix.uk" tvg-name="SkySportsMix.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Mix 
+#EXTINF:-1 tvg-chno="110" tvg-id="SkySportsMix.uk" tvg-name="SkySportsMix.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Mix +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/7607.m3u8
-#EXTINF:-1 tvg-chno="111" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Premier League
+#EXTINF:-1 tvg-chno="111" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Premier League +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/142.m3u8
-#EXTINF:-1 tvg-chno="112" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Premier League 
+#EXTINF:-1 tvg-chno="112" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Premier League +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/17959.m3u8
-#EXTINF:-1 tvg-chno="113" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Premier League 
+#EXTINF:-1 tvg-chno="113" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Premier League +
 http://geckoservers.com:8080/live/aBeZnQ0jYS/rgbFyDbzdo/1194.m3u8
