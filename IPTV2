@@ -149,3 +149,319 @@ http://vtpi.club:21973/live/a22217/fmhdn/20234.m3u8
 http://vtpi.club:21973/live/a22217/fmhdn/20235.m3u8
 #EXTINF:-1 tvg-chno="75" tvg-id="Nicktoons.uk" tvg-name="Nicktoons.uk" tvg-logo="http://vtpi.club/chansicons/nickelodeonhd.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nick Toons
 http://vtpi.club:21973/live/a22217/fmhdn/20236.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://vtpi.club/chansicons/f3932e75f691561adbe3b609369e487b.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",BBC One +
+http://vtpi.club:21973/live/a22217/fmhdn/20013.m3u8
+#EXTINF
+#EXTINF:-1 tvg-chno="19" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="http://vtpi.club/chansicons/c0f6bddd63720e31f07d6e4008ed5729.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Sky One
+http://vtpi.club:21973/live/a22217/fmhdn/20066.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://vtpi.club/chansicons/f3932e75f691561adbe3b609369e487b.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",BBC One
+http://vtpi.club:21973/live/a22217/fmhdn/20013.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://vtpi.club/chansicons/bbconehd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",BBC One 
+http://vtpi.club:21973/live/a22217/fmhdn/20014.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="http://vtpi.club/chansicons/893a18b81a3998c143a1b2f11ef88228.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Five
+http://vtpi.club:21973/live/a22217/fmhdn/20032.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="http://vtpi.club/chansicons/channel5hd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Five
+http://vtpi.club:21973/live/a22217/fmhdn/20033.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="http://vtpi.club/chansicons/e1088912f1462da7f45d1f87502d90aa.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Four
+http://vtpi.club:21973/live/a22217/fmhdn/20029.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="http://vtpi.club/chansicons/channel4hd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Four
+http://vtpi.club:21973/live/a22217/fmhdn/20031.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="Dave.uk" tvg-name="Dave.uk" tvg-logo="http://vtpi.club/chansicons/dave.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Dave
+http://vtpi.club:21973/live/a22217/fmhdn/20038.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="E4.uk" tvg-name="E4.uk" tvg-logo="http://vtpi.club/chansicons/8ec0e832fdb499bd41b9a67547de6ba6.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",E Four
+http://vtpi.club:21973/live/a22217/fmhdn/20041.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="5star.uk" tvg-name="5star.uk" tvg-logo="http://vtpi.club/chansicons/5star.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Five Star
+http://vtpi.club:21973/live/a22217/fmhdn/20003.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="4seven.uk" tvg-name="4seven.uk" tvg-logo="http://vtpi.club/chansicons/4sevenhd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Four Seven
+http://vtpi.club:21973/live/a22217/fmhdn/20002.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="ITVBe.uk" tvg-name="ITVBe.uk" tvg-logo="http://vtpi.club/chansicons/715719904dad21c604e2eb4e1964c6a6.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Be
+http://vtpi.club:21973/live/a22217/fmhdn/20051.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="http://vtpi.club/chansicons/itvhd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",ITV One
+http://vtpi.club:21973/live/a22217/fmhdn/20045.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="http://vtpi.club/chansicons/itvhd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",ITV One
+http://vtpi.club:21973/live/a22217/fmhdn/20054.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="http://vtpi.club/chansicons/ba7d6bf1bc88e8dfed439330dac47a56.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Two
+http://vtpi.club:21973/live/a22217/fmhdn/20046.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="http://vtpi.club/chansicons/itv2hd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Two
+http://vtpi.club:21973/live/a22217/fmhdn/20047.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="More4.uk" tvg-name="More4.uk" tvg-logo="http://vtpi.club/chansicons/moremovies.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",More Four
+http://vtpi.club:21973/live/a22217/fmhdn/20057.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="PickTV.uk" tvg-name="PickTV.uk" tvg-logo="http://vtpi.club/chansicons/pick.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Pick
+http://vtpi.club:21973/live/a22217/fmhdn/20058.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="Really.uk" tvg-name="Really.uk" tvg-logo="http://vtpi.club/chansicons/really.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Really
+http://vtpi.club:21973/live/a22217/fmhdn/20060.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="http://vtpi.club/chansicons/c0f6bddd63720e31f07d6e4008ed5729.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Sky One
+http://vtpi.club:21973/live/a22217/fmhdn/20066.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="http://vtpi.club/chansicons/skyone.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Sky One 
+http://vtpi.club:21973/live/a22217/fmhdn/20067.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="Sky2.uk" tvg-name="Sky2.uk" tvg-logo="http://vtpi.club/chansicons/sky2.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Sky Two
+http://vtpi.club:21973/live/a22217/fmhdn/20068.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="SkyLiving.uk" tvg-name="SkyLiving.uk" tvg-logo="http://vtpi.club/chansicons/e951042210ad62b85b389fedd682d202.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Sky Wit Ness
+http://vtpi.club:21973/live/a22217/fmhdn/20071.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="SkyLiving.uk" tvg-name="SkyLiving.uk" tvg-logo="http://vtpi.club/chansicons/skylivinghd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Sky Wit Ness
+http://vtpi.club:21973/live/a22217/fmhdn/20072.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="TLC.uk" tvg-name="TLC.uk" tvg-logo="http://vtpi.club/chansicons/13b1613a71974cdb56217ea29a9325f6.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",TLC
+http://vtpi.club:21973/live/a22217/fmhdn/20076.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="W.uk" tvg-name="W.uk" tvg-logo="http://vtpi.club/chansicons/w.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",W
+http://vtpi.club:21973/live/a22217/fmhdn/20083.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SkyMoviesActionandAdventure.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Action
+http://vtpi.club:21973/live/a22217/fmhdn/20089.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SkyMoviesActionandAdventure.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Action 
+http://vtpi.club:21973/live/a22217/fmhdn/20090.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="SkyMoviesComedy.uk" tvg-name="SkyMoviesComedy.uk" tvg-logo="http://vtpi.club/chansicons/skycomedyhd.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Comedy
+http://vtpi.club:21973/live/a22217/fmhdn/20091.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="SkyMoviesComedy.uk" tvg-name="SkyMoviesComedy.uk" tvg-logo="http://vtpi.club/chansicons/skycomedyhd.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Comedy 
+http://vtpi.club:21973/live/a22217/fmhdn/20092.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="SkyMoviesDisney.uk" tvg-name="SkyMoviesDisney.uk" tvg-logo="http://vtpi.club/chansicons/skydisneyhd.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Disney
+http://vtpi.club:21973/live/a22217/fmhdn/20093.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="SkyMoviesDisney.uk" tvg-name="SkyMoviesDisney.uk" tvg-logo="http://vtpi.club/chansicons/skydisneyhd.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Disney 
+http://vtpi.club:21973/live/a22217/fmhdn/20094.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk" tvg-logo="http://vtpi.club/chansicons/skyhitshd.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2", Sky Cinema Hits
+http://vtpi.club:21973/live/a22217/fmhdn/20099.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk" tvg-logo="http://vtpi.club/chansicons/skyhitshd.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Hits 
+http://vtpi.club:21973/live/a22217/fmhdn/20100.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="SkyMoviesSelect.uk" tvg-name="SkyMoviesSelect.uk" tvg-logo="http://vtpi.club/chansicons/skyselect.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Select
+http://vtpi.club:21973/live/a22217/fmhdn/20107.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="SkyMoviesSelect.uk" tvg-name="SkyMoviesSelect.uk" tvg-logo="http://vtpi.club/chansicons/skyselect.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Select 
+http://vtpi.club:21973/live/a22217/fmhdn/20108.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="BoxHits.uk" tvg-name="BoxHits.uk" tvg-logo="http://vtpi.club/chansicons/boxhits.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",Box Hits
+http://vtpi.club:21973/live/a22217/fmhdn/20122.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="4Music.uk" tvg-name="4Music.uk" tvg-logo="http://vtpi.club/chansicons/4music.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",Four Music
+http://vtpi.club:21973/live/a22217/fmhdn/20121.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="MTVClassic.uk" tvg-name="MTVClassic.uk" tvg-logo="http://vtpi.club/chansicons/d072c4b027cf5893778ef9c6069e456b.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",MTV Classic
+http://vtpi.club:21973/live/a22217/fmhdn/20130.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="MTVHits.uk" tvg-name="MTVHits.uk" tvg-logo="http://vtpi.club/chansicons/ad067a3111eec7edf767f5d36f394342.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",MTV Hits
+http://vtpi.club:21973/live/a22217/fmhdn/20132.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="MTVMusic.uk" tvg-name="MTVMusic.uk" tvg-logo="http://vtpi.club/chansicons/mtvmusic.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",MTV Music
+http://vtpi.club:21973/live/a22217/fmhdn/20133.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="KissTV.uk" tvg-name="KissTV.uk" tvg-logo="http://vtpi.club/chansicons/kissfm.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",Kiss
+http://vtpi.club:21973/live/a22217/fmhdn/20127.m3u8
+#EXTINF:-1 tvg-chno="42" tvg-id="Magic.uk" tvg-name="Magic.uk" tvg-logo="http://vtpi.club/chansicons/magic.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",Magic
+http://vtpi.club:21973/live/a22217/fmhdn/20128.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-id="TheVault.uk" tvg-name="TheVault.uk" tvg-logo="http://vtpi.club/chansicons/thevault.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",The Vault
+http://vtpi.club:21973/live/a22217/fmhdn/20136.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="VH1UK.uk" tvg-name="VH1UK.uk" tvg-logo="http://vtpi.club/chansicons/11b98f3ffc8923022694acaf336c205d.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",VH One
+http://vtpi.club:21973/live/a22217/fmhdn/20137.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="http://vtpi.club/chansicons/skyspaction.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Action
+http://vtpi.club:21973/live/a22217/fmhdn/20169.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="http://vtpi.club/chansicons/skyspactionhd.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Action 
+http://vtpi.club:21973/live/a22217/fmhdn/20170.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="http://vtpi.club/chansicons/skysparena.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Arena
+http://vtpi.club:21973/live/a22217/fmhdn/20171.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="http://vtpi.club/chansicons/skysparenahd.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Arena 
+http://vtpi.club:21973/live/a22217/fmhdn/20172.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="SkySportsFootball.uk" tvg-name="SkySportsFootball.uk" tvg-logo="http://vtpi.club/chansicons/skyspfball.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Foot Ball
+http://vtpi.club:21973/live/a22217/fmhdn/20178.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="SkySportsFootball.uk" tvg-name="SkySportsFootball.uk" tvg-logo="http://vtpi.club/chansicons/skysportsfootballhd.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Foot Ball
+http://vtpi.club:21973/live/a22217/fmhdn/20179.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="http://vtpi.club/chansicons/skysportsmainevent.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Main Event
+http://vtpi.club:21973/live/a22217/fmhdn/20182.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="http://vtpi.club/chansicons/skysportsmaineventhd.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Main Event 
+http://vtpi.club:21973/live/a22217/fmhdn/20183.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-id="SkySportsMix.uk" tvg-name="SkySportsMix.uk" tvg-logo="http://vtpi.club/chansicons/skyspmix.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Mix
+http://vtpi.club:21973/live/a22217/fmhdn/20184.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-id="SkySportsMix.uk" tvg-name="SkySportsMix.uk" tvg-logo="http://vtpi.club/chansicons/skyspmixhd.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Mix 
+http://vtpi.club:21973/live/a22217/fmhdn/20185.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Premier League
+http://vtpi.club:21973/live/a22217/fmhdn/20188.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Premier League 
+http://vtpi.club:21973/live/a22217/fmhdn/20189.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="DiscoveryHD.uk" tvg-name="DiscoveryHD.uk" tvg-logo="http://vtpi.club/chansicons/discovery.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Discovery Channel
+http://vtpi.club:21973/live/a22217/fmhdn/20212.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-id="DiscoveryHD.uk" tvg-name="DiscoveryHD.uk" tvg-logo="http://vtpi.club/chansicons/discoveryhd.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Discovery Channel 
+http://vtpi.club:21973/live/a22217/fmhdn/20213.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-id="AnimalPlanet.uk" tvg-name="AnimalPlanet.uk" tvg-logo="http://vtpi.club/chansicons/5972317695ae5d79d3d07db301d607f6.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Animal Planet
+http://vtpi.club:21973/live/a22217/fmhdn/20203.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-id="DiscoveryShed.uk" tvg-name="DiscoveryShed.uk" tvg-logo="http://vtpi.club/chansicons/discoveryshed.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Discovery Shed
+http://vtpi.club:21973/live/a22217/fmhdn/20210.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="DiscoveryTurbo.uk" tvg-name="DiscoveryTurbo.uk" tvg-logo="http://vtpi.club/chansicons/discoveryturbo.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Discovery Tur Bo
+http://vtpi.club:21973/live/a22217/fmhdn/20211.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="NatGeoWild.uk" tvg-name="NatGeoWild.uk" tvg-logo="http://vtpi.club/chansicons/natgeowildhd.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Nat Geo Wild
+http://vtpi.club:21973/live/a22217/fmhdn/20220.m3u8
+#EXTINF:-1 tvg-chno="63" tvg-id="PBS.uk" tvg-name="PBS.uk" tvg-logo="http://vtpi.club/chansicons/9a1607a79fff6e539796e3c991286012.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Nat Geo Wild 
+http://vtpi.club:21973/live/a22217/fmhdn/20221.m3u8
+#EXTINF:-1 tvg-chno="64" tvg-id="NationalGeographic.uk" tvg-name="NationalGeographic.uk" tvg-logo="" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",National Geographic
+http://vtpi.club:21973/live/a22217/fmhdn/24842.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-id="NationalGeographic.uk" tvg-name="NationalGeographic.uk" tvg-logo="" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",National Geographic 
+http://vtpi.club:21973/live/a22217/fmhdn/24841.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-id="Boomerang.uk" tvg-name="Boomerang.uk" tvg-logo="http://vtpi.club/chansicons/3849035859fb2d08e826a5eb8b6666f4.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Boomerang
+http://vtpi.club:21973/live/a22217/fmhdn/20224.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-id="CartoonNetwork.uk" tvg-name="CartoonNetwork.uk" tvg-logo="http://vtpi.club/chansicons/3888707778c9ea3f2668eb4ebeb94e26.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Cartoon Net Work
+http://vtpi.club:21973/live/a22217/fmhdn/20226.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="CartoonNetwork.uk" tvg-name="CartoonNetwork.uk" tvg-logo="http://vtpi.club/chansicons/3888707778c9ea3f2668eb4ebeb94e26.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2", Cartoonito
+http://vtpi.club:21973/live/a22217/fmhdn/20225.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-id="CBBC.uk" tvg-name="CBBC.uk" tvg-logo="http://vtpi.club/chansicons/d49341327464be34db66b0a2fecf7a72.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",CBBC
+http://vtpi.club:21973/live/a22217/fmhdn/20227.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="DisneyJunior.uk" tvg-name="DisneyJunior.uk" tvg-logo="http://vtpi.club/chansicons/36e17fe3a26dfa8b55d58ee0ba50fed8.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Disney Junior
+http://vtpi.club:21973/live/a22217/fmhdn/20230.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="DisneyXD.uk" tvg-name="DisneyXD.uk" tvg-logo="http://vtpi.club/chansicons/06063be956777f47bfd0fffb2a727259.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Disney 
+http://vtpi.club:21973/live/a22217/fmhdn/20231.m3u8
+#EXTINF:-1 tvg-chno="72" tvg-id="NickJrToo.uk" tvg-name="NickJrToo.uk" tvg-logo="http://vtpi.club/chansicons/nickjrtoo.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nick Junior Too
+http://vtpi.club:21973/live/a22217/fmhdn/20233.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="NickJunior.uk" tvg-name="NickJunior.uk" tvg-logo="http://vtpi.club/chansicons/3c79d405c7a8fd116f6622fb773b4ad2.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nick Junior
+http://vtpi.club:21973/live/a22217/fmhdn/20234.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon.uk" tvg-logo="http://vtpi.club/chansicons/79bb6a03583717142c111b9ad07ee2ae.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nickelo Deon
+http://vtpi.club:21973/live/a22217/fmhdn/20235.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="Nicktoons.uk" tvg-name="Nicktoons.uk" tvg-logo="http://vtpi.club/chansicons/nickelodeonhd.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nick Toons
+http://vtpi.club:21973/live/a22217/fmhdn/20236.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://vtpi.club/chansicons/f3932e75f691561adbe3b609369e487b.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",BBC One
+http://vtpi.club:21973/live/a22217/fmhdn/20013.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://vtpi.club/chansicons/bbconehd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",BBC One 
+http://vtpi.club:21973/live/a22217/fmhdn/20014.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="http://vtpi.club/chansicons/893a18b81a3998c143a1b2f11ef88228.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Five
+http://vtpi.club:21973/live/a22217/fmhdn/20032.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="http://vtpi.club/chansicons/channel5hd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Five
+http://vtpi.club:21973/live/a22217/fmhdn/20033.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="http://vtpi.club/chansicons/e1088912f1462da7f45d1f87502d90aa.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Four
+http://vtpi.club:21973/live/a22217/fmhdn/20029.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="http://vtpi.club/chansicons/channel4hd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Channel Four
+http://vtpi.club:21973/live/a22217/fmhdn/20031.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="Dave.uk" tvg-name="Dave.uk" tvg-logo="http://vtpi.club/chansicons/dave.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Dave
+http://vtpi.club:21973/live/a22217/fmhdn/20038.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="E4.uk" tvg-name="E4.uk" tvg-logo="http://vtpi.club/chansicons/8ec0e832fdb499bd41b9a67547de6ba6.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",E Four
+http://vtpi.club:21973/live/a22217/fmhdn/20041.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="5star.uk" tvg-name="5star.uk" tvg-logo="http://vtpi.club/chansicons/5star.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Five Star
+http://vtpi.club:21973/live/a22217/fmhdn/20003.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="4seven.uk" tvg-name="4seven.uk" tvg-logo="http://vtpi.club/chansicons/4sevenhd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Four Seven
+http://vtpi.club:21973/live/a22217/fmhdn/20002.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="ITVBe.uk" tvg-name="ITVBe.uk" tvg-logo="http://vtpi.club/chansicons/715719904dad21c604e2eb4e1964c6a6.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Be
+http://vtpi.club:21973/live/a22217/fmhdn/20051.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="http://vtpi.club/chansicons/itvhd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",ITV One
+http://vtpi.club:21973/live/a22217/fmhdn/20045.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="http://vtpi.club/chansicons/itvhd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",ITV One
+http://vtpi.club:21973/live/a22217/fmhdn/20054.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="http://vtpi.club/chansicons/ba7d6bf1bc88e8dfed439330dac47a56.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Two
+http://vtpi.club:21973/live/a22217/fmhdn/20046.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="http://vtpi.club/chansicons/itv2hd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Two
+http://vtpi.club:21973/live/a22217/fmhdn/20047.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="More4.uk" tvg-name="More4.uk" tvg-logo="http://vtpi.club/chansicons/moremovies.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",More Four
+http://vtpi.club:21973/live/a22217/fmhdn/20057.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="PickTV.uk" tvg-name="PickTV.uk" tvg-logo="http://vtpi.club/chansicons/pick.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Pick
+http://vtpi.club:21973/live/a22217/fmhdn/20058.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="Really.uk" tvg-name="Really.uk" tvg-logo="http://vtpi.club/chansicons/really.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Really
+http://vtpi.club:21973/live/a22217/fmhdn/20060.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="http://vtpi.club/chansicons/c0f6bddd63720e31f07d6e4008ed5729.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Sky One
+http://vtpi.club:21973/live/a22217/fmhdn/20066.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="http://vtpi.club/chansicons/skyone.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Sky One 
+http://vtpi.club:21973/live/a22217/fmhdn/20067.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="Sky2.uk" tvg-name="Sky2.uk" tvg-logo="http://vtpi.club/chansicons/sky2.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Sky Two
+http://vtpi.club:21973/live/a22217/fmhdn/20068.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="SkyLiving.uk" tvg-name="SkyLiving.uk" tvg-logo="http://vtpi.club/chansicons/e951042210ad62b85b389fedd682d202.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Sky Wit Ness
+http://vtpi.club:21973/live/a22217/fmhdn/20071.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="SkyLiving.uk" tvg-name="SkyLiving.uk" tvg-logo="http://vtpi.club/chansicons/skylivinghd.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Sky Wit Ness
+http://vtpi.club:21973/live/a22217/fmhdn/20072.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="TLC.uk" tvg-name="TLC.uk" tvg-logo="http://vtpi.club/chansicons/13b1613a71974cdb56217ea29a9325f6.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",TLC
+http://vtpi.club:21973/live/a22217/fmhdn/20076.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="W.uk" tvg-name="W.uk" tvg-logo="http://vtpi.club/chansicons/w.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",W
+http://vtpi.club:21973/live/a22217/fmhdn/20083.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SkyMoviesActionandAdventure.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Action
+http://vtpi.club:21973/live/a22217/fmhdn/20089.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="SkyMoviesActionandAdventure.uk" tvg-name="SkyMoviesActionandAdventure.uk" tvg-logo="" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Action 
+http://vtpi.club:21973/live/a22217/fmhdn/20090.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="SkyMoviesComedy.uk" tvg-name="SkyMoviesComedy.uk" tvg-logo="http://vtpi.club/chansicons/skycomedyhd.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Comedy
+http://vtpi.club:21973/live/a22217/fmhdn/20091.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="SkyMoviesComedy.uk" tvg-name="SkyMoviesComedy.uk" tvg-logo="http://vtpi.club/chansicons/skycomedyhd.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Comedy 
+http://vtpi.club:21973/live/a22217/fmhdn/20092.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="SkyMoviesDisney.uk" tvg-name="SkyMoviesDisney.uk" tvg-logo="http://vtpi.club/chansicons/skydisneyhd.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Disney
+http://vtpi.club:21973/live/a22217/fmhdn/20093.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="SkyMoviesDisney.uk" tvg-name="SkyMoviesDisney.uk" tvg-logo="http://vtpi.club/chansicons/skydisneyhd.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Disney 
+http://vtpi.club:21973/live/a22217/fmhdn/20094.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk" tvg-logo="http://vtpi.club/chansicons/skyhitshd.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2", Sky Cinema Hits
+http://vtpi.club:21973/live/a22217/fmhdn/20099.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="SkyCinemaHits.uk" tvg-name="SkyCinemaHits.uk" tvg-logo="http://vtpi.club/chansicons/skyhitshd.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Hits 
+http://vtpi.club:21973/live/a22217/fmhdn/20100.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="SkyMoviesSelect.uk" tvg-name="SkyMoviesSelect.uk" tvg-logo="http://vtpi.club/chansicons/skyselect.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Select
+http://vtpi.club:21973/live/a22217/fmhdn/20107.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="SkyMoviesSelect.uk" tvg-name="SkyMoviesSelect.uk" tvg-logo="http://vtpi.club/chansicons/skyselect.png" group-title="IPTV - Sky Movie" parent-code="1234" tvg-shift="+2",Sky Cinema Select 
+http://vtpi.club:21973/live/a22217/fmhdn/20108.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="BoxHits.uk" tvg-name="BoxHits.uk" tvg-logo="http://vtpi.club/chansicons/boxhits.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",Box Hits
+http://vtpi.club:21973/live/a22217/fmhdn/20122.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="4Music.uk" tvg-name="4Music.uk" tvg-logo="http://vtpi.club/chansicons/4music.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",Four Music
+http://vtpi.club:21973/live/a22217/fmhdn/20121.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="MTVClassic.uk" tvg-name="MTVClassic.uk" tvg-logo="http://vtpi.club/chansicons/d072c4b027cf5893778ef9c6069e456b.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",MTV Classic
+http://vtpi.club:21973/live/a22217/fmhdn/20130.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="MTVHits.uk" tvg-name="MTVHits.uk" tvg-logo="http://vtpi.club/chansicons/ad067a3111eec7edf767f5d36f394342.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",MTV Hits
+http://vtpi.club:21973/live/a22217/fmhdn/20132.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="MTVMusic.uk" tvg-name="MTVMusic.uk" tvg-logo="http://vtpi.club/chansicons/mtvmusic.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",MTV Music
+http://vtpi.club:21973/live/a22217/fmhdn/20133.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="KissTV.uk" tvg-name="KissTV.uk" tvg-logo="http://vtpi.club/chansicons/kissfm.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",Kiss
+http://vtpi.club:21973/live/a22217/fmhdn/20127.m3u8
+#EXTINF:-1 tvg-chno="42" tvg-id="Magic.uk" tvg-name="Magic.uk" tvg-logo="http://vtpi.club/chansicons/magic.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",Magic
+http://vtpi.club:21973/live/a22217/fmhdn/20128.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-id="TheVault.uk" tvg-name="TheVault.uk" tvg-logo="http://vtpi.club/chansicons/thevault.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",The Vault
+http://vtpi.club:21973/live/a22217/fmhdn/20136.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="VH1UK.uk" tvg-name="VH1UK.uk" tvg-logo="http://vtpi.club/chansicons/11b98f3ffc8923022694acaf336c205d.png" group-title="IPTV - Music" parent-code="1234" tvg-shift="+2",VH One
+http://vtpi.club:21973/live/a22217/fmhdn/20137.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="http://vtpi.club/chansicons/skyspaction.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Action
+http://vtpi.club:21973/live/a22217/fmhdn/20169.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="http://vtpi.club/chansicons/skyspactionhd.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Action 
+http://vtpi.club:21973/live/a22217/fmhdn/20170.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="http://vtpi.club/chansicons/skysparena.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Arena
+http://vtpi.club:21973/live/a22217/fmhdn/20171.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="SkySportsArena.uk" tvg-name="SkySportsArena.uk" tvg-logo="http://vtpi.club/chansicons/skysparenahd.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Arena 
+http://vtpi.club:21973/live/a22217/fmhdn/20172.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="SkySportsFootball.uk" tvg-name="SkySportsFootball.uk" tvg-logo="http://vtpi.club/chansicons/skyspfball.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Foot Ball
+http://vtpi.club:21973/live/a22217/fmhdn/20178.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="SkySportsFootball.uk" tvg-name="SkySportsFootball.uk" tvg-logo="http://vtpi.club/chansicons/skysportsfootballhd.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Foot Ball
+http://vtpi.club:21973/live/a22217/fmhdn/20179.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="http://vtpi.club/chansicons/skysportsmainevent.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Main Event
+http://vtpi.club:21973/live/a22217/fmhdn/20182.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="SkySportsMainEvent.uk" tvg-name="SkySportsMainEvent.uk" tvg-logo="http://vtpi.club/chansicons/skysportsmaineventhd.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Main Event 
+http://vtpi.club:21973/live/a22217/fmhdn/20183.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-id="SkySportsMix.uk" tvg-name="SkySportsMix.uk" tvg-logo="http://vtpi.club/chansicons/skyspmix.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Mix
+http://vtpi.club:21973/live/a22217/fmhdn/20184.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-id="SkySportsMix.uk" tvg-name="SkySportsMix.uk" tvg-logo="http://vtpi.club/chansicons/skyspmixhd.png" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Mix 
+http://vtpi.club:21973/live/a22217/fmhdn/20185.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Premier League
+http://vtpi.club:21973/live/a22217/fmhdn/20188.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="SkySportsPremierLeague.uk" tvg-name="SkySportsPremierLeague.uk" tvg-logo="" group-title="IPTV - Sky Sport" parent-code="1234" tvg-shift="+2",Sky Sport Premier League 
+http://vtpi.club:21973/live/a22217/fmhdn/20189.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="DiscoveryHD.uk" tvg-name="DiscoveryHD.uk" tvg-logo="http://vtpi.club/chansicons/discovery.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Discovery Channel
+http://vtpi.club:21973/live/a22217/fmhdn/20212.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-id="DiscoveryHD.uk" tvg-name="DiscoveryHD.uk" tvg-logo="http://vtpi.club/chansicons/discoveryhd.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Discovery Channel 
+http://vtpi.club:21973/live/a22217/fmhdn/20213.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-id="AnimalPlanet.uk" tvg-name="AnimalPlanet.uk" tvg-logo="http://vtpi.club/chansicons/5972317695ae5d79d3d07db301d607f6.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Animal Planet
+http://vtpi.club:21973/live/a22217/fmhdn/20203.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-id="DiscoveryShed.uk" tvg-name="DiscoveryShed.uk" tvg-logo="http://vtpi.club/chansicons/discoveryshed.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Discovery Shed
+http://vtpi.club:21973/live/a22217/fmhdn/20210.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="DiscoveryTurbo.uk" tvg-name="DiscoveryTurbo.uk" tvg-logo="http://vtpi.club/chansicons/discoveryturbo.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Discovery Tur Bo
+http://vtpi.club:21973/live/a22217/fmhdn/20211.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="NatGeoWild.uk" tvg-name="NatGeoWild.uk" tvg-logo="http://vtpi.club/chansicons/natgeowildhd.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Nat Geo Wild
+http://vtpi.club:21973/live/a22217/fmhdn/20220.m3u8
+#EXTINF:-1 tvg-chno="63" tvg-id="PBS.uk" tvg-name="PBS.uk" tvg-logo="http://vtpi.club/chansicons/9a1607a79fff6e539796e3c991286012.png" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",Nat Geo Wild 
+http://vtpi.club:21973/live/a22217/fmhdn/20221.m3u8
+#EXTINF:-1 tvg-chno="64" tvg-id="NationalGeographic.uk" tvg-name="NationalGeographic.uk" tvg-logo="" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",National Geographic
+http://vtpi.club:21973/live/a22217/fmhdn/24842.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-id="NationalGeographic.uk" tvg-name="NationalGeographic.uk" tvg-logo="" group-title="IPTV - Documentrie" parent-code="1234" tvg-shift="+2",National Geographic 
+http://vtpi.club:21973/live/a22217/fmhdn/24841.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-id="Boomerang.uk" tvg-name="Boomerang.uk" tvg-logo="http://vtpi.club/chansicons/3849035859fb2d08e826a5eb8b6666f4.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Boomerang
+http://vtpi.club:21973/live/a22217/fmhdn/20224.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-id="CartoonNetwork.uk" tvg-name="CartoonNetwork.uk" tvg-logo="http://vtpi.club/chansicons/3888707778c9ea3f2668eb4ebeb94e26.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Cartoon Net Work
+http://vtpi.club:21973/live/a22217/fmhdn/20226.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="CartoonNetwork.uk" tvg-name="CartoonNetwork.uk" tvg-logo="http://vtpi.club/chansicons/3888707778c9ea3f2668eb4ebeb94e26.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2", Cartoonito
+http://vtpi.club:21973/live/a22217/fmhdn/20225.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-id="CBBC.uk" tvg-name="CBBC.uk" tvg-logo="http://vtpi.club/chansicons/d49341327464be34db66b0a2fecf7a72.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",CBBC
+http://vtpi.club:21973/live/a22217/fmhdn/20227.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="DisneyJunior.uk" tvg-name="DisneyJunior.uk" tvg-logo="http://vtpi.club/chansicons/36e17fe3a26dfa8b55d58ee0ba50fed8.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Disney Junior
+http://vtpi.club:21973/live/a22217/fmhdn/20230.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="DisneyXD.uk" tvg-name="DisneyXD.uk" tvg-logo="http://vtpi.club/chansicons/06063be956777f47bfd0fffb2a727259.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Disney 
+http://vtpi.club:21973/live/a22217/fmhdn/20231.m3u8
+#EXTINF:-1 tvg-chno="72" tvg-id="NickJrToo.uk" tvg-name="NickJrToo.uk" tvg-logo="http://vtpi.club/chansicons/nickjrtoo.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nick Junior Too
+http://vtpi.club:21973/live/a22217/fmhdn/20233.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="NickJunior.uk" tvg-name="NickJunior.uk" tvg-logo="http://vtpi.club/chansicons/3c79d405c7a8fd116f6622fb773b4ad2.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nick Junior
+http://vtpi.club:21973/live/a22217/fmhdn/20234.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon.uk" tvg-logo="http://vtpi.club/chansicons/79bb6a03583717142c111b9ad07ee2ae.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nickelo Deon
+http://vtpi.club:21973/live/a22217/fmhdn/20235.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="Nicktoons.uk" tvg-name="Nicktoons.uk" tvg-logo="http://vtpi.club/chansicons/nickelodeonhd.png" group-title="IPTV - Kids" parent-code="1234" tvg-shift="+2",Nick Toons
+http://vtpi.club:21973/live/a22217/fmhdn/20236.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://vtpi.club/chansicons/f3932e75f691561adbe3b609369e487b.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",BBC One +
+http://vtpi.club:21973/live/a22217/fmhdn/20013.m3u8
+#EXTINF
+#EXTINF:-1 tvg-chno="19" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="http://vtpi.club/chansicons/c0f6bddd63720e31f07d6e4008ed5729.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",Sky One +
+http://vtpi.club:21973/live/a22217/fmhdn/20066.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-chno="14" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="http://vtpi.club/chansicons/ba7d6bf1bc88e8dfed439330dac47a56.png" group-title="IPTV Entertain Ment" parent-code="1234" tvg-shift="+2",ITV Two +
+http://vtpi.club:21973/live/a22217/fmhdn/20046.m3u8
