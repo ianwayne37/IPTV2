@@ -1,0 +1,40 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BBC One Lon
+#EXTVLCOPT:program=6301
+http://192.168.8.111:8001/1:0:1:189D:7FD:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ITV London
+#EXTVLCOPT:program=10060
+http://192.168.8.111:8001/1:0:1:274C:7FC:2:11A0000:0:0:0::ITV London
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Channel 4
+#EXTVLCOPT:program=9211
+http://192.168.8.111:8001/1:0:1:23FB:7F9:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,W
+#EXTVLCOPT:program=6520
+http://192.168.8.111:8001/1:0:1:1978:7E6:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Dave
+#EXTVLCOPT:program=6506
+http://192.168.8.111:8001/1:0:1:196A:7E6:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,5STAR
+#EXTVLCOPT:program=7715
+http://192.168.8.111:8001/1:0:1:1E23:809:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ITVBe
+#EXTVLCOPT:program=10075
+http://192.168.8.111:8001/1:0:1:275B:7FC:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TLC
+#EXTVLCOPT:program=6233
+http://192.168.8.111:8001/1:0:1:1859:7F3:2:11A0000:0:0:0:
