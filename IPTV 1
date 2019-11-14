@@ -1,0 +1,10 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ITV One Granada
+#EXTVLCOPT:program=10080
+http://192.168.1.247:8001/1:0:1:2760:7FC:2:11A0000:0:0:0:http://brianhosting.ddns.net:25461/w3/0000/3079:ITV One Granada
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ITV One Wales
+#EXTVLCOPT:program=12150
+http://192.168.1.247:8001/1:0:1:2F76:80B:2:11A0000:0:0:0:http://brianhosting.ddns.net:25461/w3/0000/3085:ITV One Wales
