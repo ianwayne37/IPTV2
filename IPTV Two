@@ -1,5 +1,0 @@
-#EXTM3U 
-#EXTVLCOPT--http-reconnect=true 
-#EXTINF:-1,BBC One Wales
-#EXTVLCOPT:program=4874
-http://192.168.1.247:8001/1:0:1:130A:63:27:FFFF0000:0:0:0:http://192.168.1.247:8001/1:0:1:2847:7FE:2:11A0000:0:0:0:http://mytv.fun/live/scnciiv0ff/y6bphoqng/9554.ts:BBC One Wales:BBC One Wales
