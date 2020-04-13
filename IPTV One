@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/Sky%20One%20HD.png" group-title="Entertainment" tvg-shift="+2",Sky One 
+http://mo-salah.net:8880/live/Iianianianian/69696969/250333.ts
+#EXTINF:-1 tvg-chno="2" tvg-id="Sky1.uk" tvg-name="Sky1.uk" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/Sky%20One%20HD.png" group-title="Entertainment" tvg-shift="+2",Sky One 
+http://mo-salah.net:8880/live/Iianianianian/69696969/91.ts
+#EXTINF:-1 tvg-chno="3" tvg-id="Sky2.uk" tvg-name="Sky2.uk" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/Sky%20Two.png" group-title="Entertainment" tvg-shift="+2",Sky Two
+http://mo-salah.net:8880/live/Iianianianian/69696969/967.ts
+#EXTINF:-1 tvg-chno="4" tvg-id="SkyLiving.uk" tvg-name="SkyLiving.uk" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/Sky%20Witness%20HD.png" group-title="Entertainment" tvg-shift="+2",Sky Witness 
+http://mo-salah.net:8880/live/Iianianianian/69696969/250329.ts
+#EXTINF:-1 tvg-chno="5" tvg-id="SkyLiving.uk" tvg-name="SkyLiving.uk" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/Sky%20Witness%20HD.png" group-title="Entertainment" tvg-shift="+2",Sky Witness 
+http://mo-salah.net:8880/live/Iianianianian/69696969/970.ts
+#EXTINF:-1 tvg-chno="6" tvg-id="TLC.uk" tvg-name="TLC.uk" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/TLC%20HD.png" group-title="Entertainment" tvg-shift="+2",Tlc
+http://mo-salah.net:8880/live/Iianianianian/69696969/70.ts
