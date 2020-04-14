@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="http://78.46.39.135/logos/bbc1.png" group-title="UK | Free To Air" tvg-shift="+2",BBC One 
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62415.ts
+#EXTINF:-1 tvg-chno="2" tvg-id="BBC2.uk" tvg-name="BBC2.uk" tvg-logo="http://78.46.39.135/logos/bbc2.png" group-title="UK | Free To Air" tvg-shift="+2",BBC Two 
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/115186.ts
+#EXTINF:-1 tvg-chno="3" tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/ITV_HD_2013.svg/300px-ITV_HD_2013.svg.png" group-title="UK | Free To Air" tvg-shift="+2",ITV 1 
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62405.ts
+#EXTINF:-1 tvg-chno="4" tvg-id="ITVPlus1.uk" tvg-name="ITVPlus1.uk" tvg-logo="https://static.memrise.com/uploads/things/images/171134990_171230_2149_24.png" group-title="UK | Free To Air" tvg-shift="+2",ITV 1  +1
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62393.ts
+#EXTINF:-1 tvg-chno="5" tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="https://i.pinimg.com/originals/02/90/8b/02908b2a712b0892d2709c5e258d4a9d.png" group-title="UK | Free To Air" tvg-shift="+2",Channel 4 
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62386.ts
+#EXTINF:-1 tvg-chno="6" tvg-id="Channel4plus1.uk" tvg-name="Channel4plus1.uk" tvg-logo="https://beta.hoolatv.com/sites/default/files/channels/channel4p1.png" group-title="UK | Free To Air" tvg-shift="+2",Channel 4  +1
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62382.ts
+#EXTINF:-1 tvg-chno="7" tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="https://internationalartistsmanagement.co.uk/wp-content/uploads/2018/10/Channel-5-Logo-411x600.png" group-title="UK | Free To Air" tvg-shift="+2",Channel 5 
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/78478.ts
+#EXTINF:-1 tvg-chno="8" tvg-id="Channel5plus1.uk" tvg-name="Channel5plus1.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/Channel5-plus1-LogoPurple-255x14.png?itok=0yTManyh" group-title="UK | Free To Air" tvg-shift="+2",Channel 5  +1
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62374.ts
+#EXTINF:-1 tvg-chno="9" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b1/ITV2_HD_2013.svg/revision/latest/scale-to-width-down/199?cb=20130115140950" group-title="UK | Free To Air" tvg-shift="+2",ITV2 
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62391.ts
+#EXTINF:-1 tvg-chno="10" tvg-id="ITV2plus1.uk" tvg-name="ITV2plus1.uk" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/40/ITV2_%2B1_2013.svg/revision/latest/scale-to-width-down/199?cb=20130115193041" group-title="UK | Free To Air" tvg-shift="+2",ITV2 +1
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/102518.ts
+#EXTINF:-1 tvg-chno="11" tvg-id="E4plus1.uk" tvg-name="E4plus1.uk" tvg-logo="http://jsat.tv/gallery/var/thumbs/TV%20Logos/e4%20%2B1.png?m=1458729819" group-title="UK | Free To Air" tvg-shift="+2",E4  +1
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62442.ts
+#EXTINF:-1 tvg-chno="12" tvg-id="More4Plus1.uk" tvg-name="More4Plus1.uk" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/17/More4_1_2018_logo.png/revision/latest/scale-to-width-down/100?cb=20181002182257" group-title="UK | Free To Air" tvg-shift="+2",More4  +1
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62440.ts
+#EXTINF:-1 tvg-chno="13" tvg-id="CBSReality.uk" tvg-name="CBSReality.uk" tvg-logo="http://www.jsat.tv/gallery/var/resizes/TV%20Logos/cbs%20reality%2B1-01.png?m=1458730390" group-title="UK | Free To Air" tvg-shift="+2",CBS Reality  +1
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62429.ts
+#EXTINF:-1 tvg-chno="14" tvg-id="STV.uk" tvg-name="STV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/800px-STV_logo_2014.png" group-title="UK | Free To Air" tvg-shift="+2",STV
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/83208.ts
+#EXTINF:-1 tvg-chno="15" tvg-id="5star.uk" tvg-name="5star.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="UK | Free To Air" tvg-shift="+2",5 Star
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62451.ts
+#EXTINF:-1 tvg-chno="16" tvg-id="5starplus1.uk" tvg-name="5starplus1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="UK | Free To Air" tvg-shift="+2",5 Star +1
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62450.ts
+#EXTINF:-1 tvg-chno="17" tvg-id="5Select.uk" tvg-name="5Select.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/5Select_logo.png" group-title="UK | Free To Air" tvg-shift="+2",5 Select
+http://streams.phtvmedia.com:8085/live/sctoorjones36@gmail.com/sB8UHTKbeD/62445.ts
