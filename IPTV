@@ -1,0 +1,32 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BBC One Lon
+http://192.168.1.75:8001/1:0:1:189D:7FD:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BBC Two
+http://192.168.1.75:8001/1:0:1:189E:7FD:2:11A0000:0:0:0:?bitrate=1500000?width=720?height=576?vcodec=h265?aspectratio=2?interlaced=0
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ITV London
+http://192.168.1.75:8001/1:0:1:274C:7FC:2:11A0000:0:0:0::ITV London
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Channel 4
+http://192.168.1.75:8001/1:0:1:23FB:7F9:2:11A0000:0:0:0:
+EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky One
+http://192.168.1.75:8001/1:0:1:1656:7E5:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky One
+http://192.168.1.75:8001/1:0:1:1656:7E5:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Witness
+http://192.168.1.75:8001/1:0:1:1451:7D7:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,W
+http://192.168.1.75:8001/1:0:1:1978:7E6:2:11A0000:0:0:0:
